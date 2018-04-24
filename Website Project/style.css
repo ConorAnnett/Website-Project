@@ -1,0 +1,21 @@
+.container
+  {
+    font-family: Tahoma;
+    font-size: 16px;
+  }
+
+.container-fluid
+  {
+    font-family: Tahoma;
+    font-size: 18px;
+  }
+
+.navbar-brand
+  {
+    font-size: 32px;
+  }
+
+body
+  {
+    background-color: #999999
+  }
